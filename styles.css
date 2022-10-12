@@ -179,3 +179,15 @@ tr:nth-child(even) {
   align-items: center;
   gap: 5px;
 }
+
+.blue {
+  color: blue;
+}
+
+.red {
+  color: red;
+}
+
+.pointer {
+  cursor: pointer;
+}
