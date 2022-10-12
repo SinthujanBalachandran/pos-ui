@@ -173,3 +173,9 @@ td:first-child {
 tr:nth-child(even) {
   background-color: rgba(176, 224, 230, 0.301);
 }
+
+.flex {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
